@@ -4,7 +4,6 @@
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/sir_bashh?style=social)
 
----
 
 I'm a Software Engineer specializing in JavaScript technologies.
 
