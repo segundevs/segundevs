@@ -20,5 +20,5 @@ I'm a Software Engineer specializing in JavaScript technologies.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segundevs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=segundevs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Segun's GitHub stats](https://github-readme-stats.vercel.app/api?username=segundevs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
