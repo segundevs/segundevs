@@ -1,7 +1,7 @@
 Hi 👋 My name is Segun Ibrahim
 ==============================
 
-Javascript | Web Developer
+Frontend Developer | Javascript
 --------------------------
 
 * 🌍  I'm based in Abuja, Nigeria
