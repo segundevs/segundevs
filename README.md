@@ -7,7 +7,7 @@ Frontend Developer | Javascript
 * 🌍  I'm based in Abuja, Nigeria
 * 🖥️  See my portfolio at [segun.dev](http://segundevs.netlify.app)
 * ✉️  You can contact me at [tushbash@gmail.com](mailto:tushbash@gmail.com)
-* 🚀  I'm currently working on [Project Help](http://project-help.vercel.app)
+<!-- * 🚀  I'm currently working on [Project Help](http://project-help.vercel.app) -->
 * 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on Frontend and Fullstack web projects
 * ⚡  When I'm not coding, I'm studying how microbes affects human health
